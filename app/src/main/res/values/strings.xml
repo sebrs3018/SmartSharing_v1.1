@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PassaggioDatiTraActivities</string>
+    <string name="launch_activity">com.sebrs3018.passaggiodatitraactivities.AnotherActivity</string>
+
+    <string name="LABEL_MESSAGE">LABEL_MESSAGE</string>
+    <string name="LABEL_MESSAGE_RETURN">LABEL_MESSAGE_RETURN</string>
+
+
+    <string name="launch_activity_4_results">com.sebrs3018.passaggiodatitraactivities.AnotherActivity4Results</string>
+
+
+</resources>
